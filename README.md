@@ -1,5 +1,7 @@
 # 06-react-hooks
 
+**Project overview:**
+
 * O objetivo do projeto era desenvolver um PWA focando em utilizar hooks do ReactJS, além de utilizar CSS:
 * O projeto imita uma tabela fipe, usando implementação com a API https://deividfortuna.github.io/fipe/;
 * Nesse projeto foi utilizado elevação de estado e componentes controlados;
